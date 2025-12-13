@@ -28,7 +28,8 @@
         "android.permission.CAMERA",
         "android.permission.READ_MEDIA_IMAGES"
       ],
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.alexanderg40.NutriDetect_Garcia"
     },
     "web": {
       "favicon": "./assets/favicon.png"
